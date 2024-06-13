@@ -5,7 +5,6 @@ TypeScript. */
     registra el valor de la variable `myName` en la consola. Todo el código está incluido en una
     expresión de función invocada inmediatamente (IIFE) en TypeScript, lo que significa que la función
     se ejecuta inmediatamente después de definirse. */
-        const myName: string = 'Nicolas';
+        const myName: string = 'Santi';
         console.log(myName);
     })();
-    
